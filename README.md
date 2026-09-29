@@ -8,7 +8,7 @@ The project focuses on answering a series of business-related questions about or
 
 The dataset used in this project was obtained from Kaggle:
 
-[SQL Practice Dataset #2 – Medium Queries](https://www.kaggle.com/datasets/nudratabbas/sql-practice-dataset-2-medium-queries/data)
+[Restaurant Orders SQL Practice Dataset](https://www.kaggle.com/datasets/nudratabbas/sql-practice-dataset-2-medium-queries/data)
 
 ## Questions Explored
 
